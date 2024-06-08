@@ -1,0 +1,8 @@
+===========================================Task 4===========================================
+Ive created 2 seperate files named "4_Logs_Registry_access_A1.ps1" and "4_Logs_Registry_access_A2.ps1" coresponding to the two assignments mentioned in the text in https://pad.riseup.net/p/P9BeIjmZNSPJ_n2FkO55 under the "4th" heading
+===========================================Task 7===========================================
+Task 7 was to create indivisual files for each function which are present in the folder named "PrinterOps"
+===========================================Task 8===========================================
+Task No 8 was to build a toolbox for updates 
+What i have done is made a folder named "Update_Toolbox" which contains indivisual files of each part
+After that ive also created a single file named "8_Toolbox.ps1" which contains all the files combined into a single file you just have to uncomment the function you want to run from the bottom of the code. Ive done this because of of a bit of confusion
